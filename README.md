@@ -1,5 +1,5 @@
 # cowin-notify
-A python script to check for free slots and notify via Whatsapp
+A python script to check for free slots and notify via Whatsapp. Currently hardcoded to check for free slots in District:Bengaluru BBMP; Age Group: 18+, Dose: First dose
 
 # Usage
 python3 cowin-notify.py [PhoneNumWith+InternationalCode] [WhatsappAPIKeyFromCallMeBot.com]
